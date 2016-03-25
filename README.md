@@ -32,5 +32,3 @@ If you're not familiar with caffe's flow yet, dennis-chen's reply [here](https:/
 
 Calibration nets are also trained similarly, scripts can be found in **face_calibration/**
 
-
-Hope that helps!
